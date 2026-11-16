@@ -12,6 +12,9 @@ repository (OpenAPK) as its knowledge base** and links out to your other repos.
 - Ask about anything in the OpenAPK catalog — apps, categories, repos — with cited sources
 - Install skills from ClawHub, or have GPT generate new plugins for you
 
+> New here? Start with the [simple runthrough](RUNTHROUGH.md) — zero to a working
+> bot in ~10 minutes.
+
 ## Architecture — 2 engines + 1 brain
 
 ```
